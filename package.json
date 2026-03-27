@@ -1,0 +1,14 @@
+{
+  "name": "farcaster-newsletter-bridge",
+  "version": "0.1.0",
+  "description": "Sync Farcaster channel posts to a weekly email newsletter",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
